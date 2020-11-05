@@ -37,7 +37,7 @@ nav {
 nav ul {
 	list-style-type: none;
 	float: right;
-	margin-right: 80px;
+	margin-right: 5%;
 	padding-left: 0
 }
 
@@ -75,7 +75,7 @@ a:hover {
 	line-height: 60px;
 	margin-right: 40px;
 	cursor: crosshair;
-	display: none
+	display: none;
 }
 
 #check {
@@ -318,3 +318,30 @@ footer {
 	font-family: Gruppo, cursive;
 }
 
+@media (max-width:952px) {
+	.planetSection{
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	.planetImg{
+		width: 100%;
+		text-align: center;
+		margin: auto;
+
+	}
+	
+	.planetSection  p{
+		order: 2;
+	}
+	.planetSection  h2{
+		text-align: center;
+		order: 0;
+	}
+	 .planetImg{
+		order: 1;
+	}
+	
+	
+}
