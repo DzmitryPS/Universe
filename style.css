@@ -128,6 +128,15 @@ a:hover {
 	border-radius: 10px;
 	opacity: .8
 }
+.galaxyImg {
+	border:2px solid #3c3c3c;
+	border-radius:10px;
+	margin-left: 1%;
+	float:right;
+	width:30%;
+	max-width: 300px;
+	max-height: 300px;
+}
 
 #more {
 	display: none
@@ -182,7 +191,8 @@ footer {
 }
 
 #footer-right ul {
-    list-style-type: none;
+	list-style-type: none;
+	padding-left: 0px;
 }
 
 #footer-right a {
@@ -261,6 +271,7 @@ footer {
 	border : solid silver;
 }
 .pageX-title{
+	font-size : 130%;
 	display : flex;
 	justify-content: center;
 	font-family: Gruppo, cursive; /*planet x css stops here*/
