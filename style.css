@@ -342,6 +342,20 @@ footer {
 	 .planetImg{
 		order: 1;
 	}
+
 	
+	#sunSection{
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+
+	#sunSection p{
+		order: 2;
+	}
+	#sunSection  h2{
+		text-align: center;
+		order: 0;
+	}
 	
 }
