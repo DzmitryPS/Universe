@@ -1,6 +1,6 @@
 # Universe
 
-A quick information website about our Universe.
+A quick information website about our Universe created for the first project from Wild Code School.
 
 # Sources
 ### Official NASA website
