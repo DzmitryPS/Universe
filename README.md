@@ -1,6 +1,6 @@
 # Universe
 
-
+A quick information website about our Universe.
 
 # Sources
 ### Official NASA website
