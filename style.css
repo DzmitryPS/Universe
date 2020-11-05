@@ -262,6 +262,7 @@ footer {
 	border : solid silver;
 }
 .pageX-title{
+	font-size : 130%;
 	display : flex;
 	justify-content: center;
 	font-family: Gruppo, cursive; /*planet x css stops here*/
